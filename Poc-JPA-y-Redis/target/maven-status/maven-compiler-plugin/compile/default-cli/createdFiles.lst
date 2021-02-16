@@ -1,0 +1,10 @@
+com\poc\PocJPAyRedis\repositories\RealStateRepository.class
+com\poc\PocJPAyRedis\services\RealStateService.class
+com\poc\PocJPAyRedis\controllers\RealStateController.class
+com\poc\PocJPAyRedis\models\RealState.class
+com\poc\PocJPAyRedis\configs\CacheConfig.class
+com\poc\PocJPAyRedis\models\RealStateResponse.class
+com\poc\PocJPAyRedis\models\RealStateResponse$RealStateResponseBuilder.class
+com\poc\PocJPAyRedis\models\RealState$RealStateBuilder.class
+com\poc\PocJPAyRedis\PocJpaYRedisApplication.class
+com\poc\PocJPAyRedis\services\CacheService.class
